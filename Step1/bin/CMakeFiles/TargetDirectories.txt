@@ -1,3 +1,0 @@
-/home/yyj/Learn-CMake/Step1/bin/CMakeFiles/edit_cache.dir
-/home/yyj/Learn-CMake/Step1/bin/CMakeFiles/rebuild_cache.dir
-/home/yyj/Learn-CMake/Step1/bin/CMakeFiles/Tutorial.dir
